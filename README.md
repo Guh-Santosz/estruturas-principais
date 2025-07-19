@@ -1,4 +1,4 @@
-# 🧠 Todas as Estruturas em C
+# 🧠 Principais Estruturas de Dados em C
 
 Este projeto reúne `várias estruturas de dados e conceitos básicos da linguagem C`, como `structs` e `ponteiros`. Ele foi desenvolvido como forma de estudo e prática, para melhor entendimento das etruturas de dados em C. 
 
