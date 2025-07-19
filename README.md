@@ -6,6 +6,14 @@ Este projeto reúne `várias estruturas de dados e conceitos básicos da linguag
 
 ---
 
+# 💻 Exemplo Gráfico
+
+Uma imagem como demonstração do menu principal do projeto:
+
+![imagem menu](./foto-exemplo/exemplo-menu-principal.png)
+
+É um sistema simples, mas foi bem interessante fazê-lo. Consegui desenvolver mais minhas habilidades em estruturas de dados e organização de menus.
+
 ## 🧱 Tecnologias e Recursos Utilizados
 
 Foram utilizados conceitos básicos de lógica de programação e gerenciamento de memória. Além disso, utilizou-se:
